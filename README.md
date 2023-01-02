@@ -20,7 +20,7 @@ that is 2 minutes.
 completed, the meme virus will detonate.
 
 ## FAQs
-1) Is this harmful?
+1) Is this harmful?<br>
 A) Not really
 
 2) How to stop the program?
