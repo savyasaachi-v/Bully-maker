@@ -23,11 +23,11 @@ completed, the meme virus will detonate.
 1) Is this harmful?<br>
 A) Not really
 
-2) How to stop the program?
+2) How to stop the program?<br>
 A) The program doesn't stop by itself, you will need open task manager and kill the vbs task.
 If you cannot do that, the only option is to restart the computer.
 
-3) How to uninstall the virus?
+3) How to uninstall the virus?<br>
 A) Go to the temp folder by typing `cd %tmp%` and delete the folder named
 bully by running `rmdir /s bully`
 
