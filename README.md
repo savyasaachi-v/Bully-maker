@@ -6,17 +6,17 @@ Inspiration for albanian virus:
 https://www.reddit.com/r/funny/comments/3l65rp/albanian_virus/
 
 ## Requirements
--Windows operating system
--Access to the victim computer for a few minutes
+- Windows operating system
+- Access to the victim computer for a few minutes
 
 ## Usage
 
--Copy the setup.bat and bully.gif to a pendrive
--Open the pendrive in the victim's computer and run the setup file
--Enter the time you want the program to wait, as you would wish the program to
+- Copy the setup.bat and bully.gif to a pendrive
+- Open the pendrive in the victim's computer and run the setup file
+- Enter the time you want the program to wait, as you would wish the program to
 run while the computer is being used. the default waiting time is 120 seconds
 that is 2 minutes.
--After the setup is completed unplug the pendrive, and after the timeout is 
+- After the setup is completed unplug the pendrive, and after the timeout is 
 completed, the meme virus will detonate.
 
 ## FAQs
